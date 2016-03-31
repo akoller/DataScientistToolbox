@@ -1,0 +1,9 @@
+.vagrant
+apps
+etc
+srv
+/startshiny.cmd
+/puppet_core_types_cheatsheet.pdf
+shiny-server
+
+/precise/*.box
